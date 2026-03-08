@@ -1,4 +1,11 @@
 .env
-.DS_Store
+strava_raw.csv
+weather_checkpoint.csv
+*.csv
+.ipynb_checkpoints/
+*/.ipynb_checkpoints/
 __pycache__/
 *.pyc
+*.png
+.DS_Store
+Thumbs.db
